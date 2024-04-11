@@ -65,6 +65,7 @@
 								<li>
 									<i class="fa fa-map-marker"></i>
 									<span>470 Trần Đại Nghĩa, quận Ngũ Hành Sơn, phường Hòa Quý, Đà Nẵng</span>
+									<span>470 Trần Đại Nghĩa, quận Ngũ Hành Sơn, phường Hòa Quý, Đà Nẵng</span>
 								</li>
 							</ul>
 						</div>
